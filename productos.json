@@ -1,0 +1,56 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Sándwich de jamon y queso con mayonesa casera",
+      "thumbnailUrl": "./assets/platos/panes3.jpg"
+    },
+    {
+      "precio": 3000,
+      "id": 2,
+      "title": "Tallarines con Tinta de Calamar con Pulpo",
+      "thumbnailUrl": "./assets/platos/mariscos4.jpg"
+    },
+    {
+      "precio": 3000,
+      "id": 3,
+      "title": "Sorrentinos caprese",
+      "thumbnailUrl": "./assets/platos/pastas1.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 4,
+      "title": "Sándwich de Bondiola Casera y Panceta Ahumada",
+      "thumbnailUrl": "./assets/platos/fiambre.jpg"
+    },
+    {
+      "precio": 1550,
+      "id": 5,
+      "title": "pizza de tomates y albahaca",
+      "thumbnailUrl": "./assets/platos/pizza_tomate.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 6,
+      "title": "Pizza de Jamon Crudo",
+      "thumbnailUrl": "./assets/platos/pizza_jamon.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 7,
+      "title": "Cocos con mariscos",
+      "thumbnailUrl":"./assets/platos/cocos.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 8,
+      "title": "Lemon Pie al horno de Barro",
+      "thumbnailUrl":"./assets/platos/postre5.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 9,
+      "title": "Cheesecake de frutos rojos",
+      "thumbnailUrl":"./assets/platos/postre1.jpg"
+    }
+  ]
